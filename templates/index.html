@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            color: #333;
+            background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.9)), url("https://wallsbyme.com/cdn/shop/products/geometric_138705918_01-sw_grande.jpg?v=1627343719");
+            overflow: hidden;
+            margin: 0;
+        }
+
+        #form {
+            margin-left: 20px;
+        }
+
+        #map {
+            height: calc(100vh - 240px);
+            margin-top: 0px;
+            position: unset !important;
+        }
+
+        h1 {
+            text-align: center;
+            font-family: 'Figtree', sans-serif !important;
+        }
+
+        .styled-box {
+            border: 2px solid #a5a5a5;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 10px auto; 
+            width: 90%; 
+            background-color: #ffffff; 
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .form-container * {
+		display: inline;
+    		margin: 10px;    
+        }
+
+        label {
+            display: block;
+            font-size: 16px;
+	    font-weight: bold;
+            color: #333;
+
+            flex: 1; 
+            max-width:44%; 
+	    white-space: nowrap;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            
+            border: 1px solid #3498db;
+            border-radius: 4px;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease;
+            max-width: 48%; 
+        }
+
+        input[type="text"]:focus {
+            border-color: #3498db;
+        }
+
+        input[type="submit"] {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+            width: 60%; 
+        }
+
+        input[type="submit"]:hover {
+            background-color: #2980b9;
+        }
+
+	select[name="selected_car"] {
+   		 flex: 1;
+   		 padding: 10px;
+    		 margin-left: 0px;
+   		 border: 1px solid #3498db;
+  	  	 border-radius: 4px;
+  	  	 box-sizing: border-box;
+    		 transition: border-color 0.3s ease;
+   		 max-width: 48%;
+	}
+
+
+	select[name="selected_car"]:focus {
+  		  border-color: #3498db;
+	}
+	@media only screen and (max-width: 600px) {
+    #map {
+        height: calc(100vh - 330px);
+    }
+
+    .styled-box {
+        width: 100%; /* Make the styled box full width on mobile */
+    }
+input[type="text"] {
+            
+            padding: 5px;
+          
+            max-width: 24%; 
+        }
+   label {
+            font-size: 12px;
+	    font-weight: bold;
+            max-width:22%; 
+
+        }
+h1{
+font-size: 30px !important;
+}
+}
+    </style>
+    <title>Route Map</title>
+</head>
+<body>
+    <div id="form">
+        <h1>Electric Chargers Map</h1>
+        <form method="POST" action="{{ url_for('index') }}">
+	{{ form.csrf_token }}
+            <div class="styled-box">
+                <div class="form-container">
+                    <label for="start_location">Start Location (Sofia, Bulgaria):</label>
+                    <input type="text" id="start_location" name="start_location" required>
+                    <label for="end_location">End Location (Varna, Bulgaria):</label>
+                    <input type="text" id="end_location" name="end_location" required>
+                    <label for="selected_car">Select Car:</label>
+                   {{ form.selected_car() | safe}}
+		
+                </div>
+                <input type="submit" value="Generate Map">
+            </div>
+        </form>
+    </div>
+    <div id="map">
+        {% if map_html %}
+            {{ map_html | safe }}
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,444 @@
+,Име на локация,lat,lng,Марка/модел стнанция,,AC/DC,Мощност
+1,Ataro Clima - Plovdiv BG25,42.19325,24.73667,Circontrol,Circontrol Wallbox,AC,  22 
+2,Bricolage Blagoevgrad BG31,41.99663,23.08787,ABB,ABB Terra 53CJ,DC,  50 
+3,KFC Sofia BG36,42.70973,23.39431,ABB,ABB Terra 53CJ,DC,  50 
+4,Business Park Varna BG-00021,43.2292,27.85668,Circontrol,Circontrol Urban,AC,  44 
+5,Villa Ekaterina BG32,41.50465,23.27213,Circontrol,Circontrol Wallbox,AC,  22 
+6,DKS Varna BG39,43.21134,27.93246,ABB,ABB Terra 53CJ,DC,  50 
+7,DZI Liquidation Center BG33,42.72484,23.32657,Circontrol,Circontrol Wallbox,AC,  22 
+8,h-l Imperial Plovdiv BG28,42.14458,24.76805,Circontrol,Circontrol Urban,AC,  44 
+9,Hotel SPS Plovdiv BG26,42.14476,24.7854,Circontrol,Circontrol Urban,AC,  44 
+10,HomeMax Plovdiv BG195,42.14477,24.7855,ABB,ABB DC Wallbox,DC,  24 
+11,HomeMax Plovdiv BG196,42.12855,24.76947,ABB,ABB DC Wallbox,DC,  24 
+12,Home Max Varna BG-00023,43.221004,27.875896,Circontrol,Circontrol Wallbox,AC,  22 
+13,Landmark Varna BG-00024,43.207031,27.918299,Circontrol,Circontrol Wallbox,AC,  22 
+14,Maleeva - Sofia BG9,42.66771,23.32814,Circontrol,Circontrol Wallbox,AC,  22 
+15,Mall Burgas,42.5307410,27.4588090,ABB,ABB Terra 54C,DC,  50 
+16,Metro BG29,42.64706,23.39451,ABB,ABB DC Wallbox,DC,  24 
+17,Metro 1 -Sofia BG30,42.64706,23.39451,Circontrol,Circontrol Wallbox,AC,  22 
+18,Porsche Center BG10,42.6794850,23.3992270,Circontrol,Circontrol Wallbox,AC,  22 
+19,Residential park BG35,42.62139,23.36901,Circontrol,Circontrol Raption 22kW,DC,  22 
+20,Sea Cars Sandanski BG37,41.52533,23.27363,ABB,ABB Terra 53CJ,DC,  50 
+21,Serdika Center - Sofia BG4,42.69111,23.35292,Circontrol,Circontrol Wallbox,AC,  22 
+22,Serdika Center - Sofia BG5,42.69112,23.35293,Circontrol,Circontrol Wallbox,AC,  22 
+23,Sofia Airport Center BG15,42.68236,23.40303,Schneider Electric,Schneider EV link,AC,  22 
+24,Sofia Airport Center BG16,42.68237,23.40304,Schneider Electric,Schneider EV link,AC,  22 
+25,The Mall Sofia BG1,42.66032,23.38181,Circontrol,Circontrol Wallbox,AC,  22 
+26,The Mall Sofia BG2,42.66033,23.38182,Circontrol,Circontrol Wallbox,AC,  22 
+27,The Mall Sofia BG3,42.66034,23.38183,Circontrol,Circontrol Urban,AC,  44 
+28,Veliko Tarnovo Magistralna BG7,43.07339,25.60975,ABB,ABB Terra 53CJ,DC,  50 
+29,Shell Lyubimetz BG8,41.84328,26.12263,ABB,ABB Terra 54C,DC,  50 
+30,Ulen BG14,41.82857,23.47686,Circontrol,Circontrol Urban,DC,  44 
+31,Shell Yambol BG17,42.53214,26.39988,ABB,ABB Terra 53CJ,DC,  50 
+32,SAP - Sofia BG110000,42.66885,23.26672,Circontrol,Circontrol Wallbox,AC,  22 
+33,Capital Fort Sofia BG6,42.64666,23.39489,Circontrol,Circontrol Urban,AC,  44 
+34,Sofia Ring Mall BG12,42.62427,23.35303,Circontrol,Circontrol Wallbox,AC,  22 
+35,Sofia Ring Mall BG13,42.62428,23.35304,Circontrol,Circontrol Wallbox,AC,  22 
+36,Metro 2 BG50,42.74563,23.23001,Circontrol,Circontrol Wallbox,AC,  22 
+37,Metro 2 BG51,42.74564,23.23002,Circontrol,Circontrol Wallbox,AC,  22 
+38,Metro Ruse BG48,43.81553,25.92673,Circontrol,Circontrol Wallbox,AC,  22 
+39,Metro Ruse BG49,43.81554,25.92674,Circontrol,Circontrol Wallbox,AC,  22 
+40,Metro Tarnovo BG52,43.08270,25.59475,Circontrol,Circontrol Wallbox,AC,  22 
+41,Metro Tarnovo BG53,43.08271,25.59476,Circontrol,Circontrol Wallbox,AC,  22 
+42,Metro Plovdiv BG54,42.14331,24.78309,Circontrol,Circontrol Wallbox,AC,  22 
+43,Metro Plovdiv BG55,42.14331,24.78309,Circontrol,Circontrol Wallbox,AC,  22 
+44,ICPE MD5 Parter ROE3,,,Circontrol,Circontrol Urban,AC,  44 
+45,Carrefour Chiajna ROE2,,,Circontrol,Circontrol Urban,AC,  44 
+46,Metro Burgas BG70,42.52982,27.45288,Circontrol,Circontrol Wallbox,AC,  22 
+47,Metro Burgas BG71,42.52983,27.45289,Circontrol,Circontrol Wallbox,AC,  22 
+48,Metro Varna BG72,43.23305,27.86155,Circontrol,Circontrol Wallbox,AC,  22 
+49,Metro Varna BG73,43.23306,27.86156,Circontrol,Circontrol Wallbox,AC,  22 
+50,Bricolage Sofia BG56,42.73361,23.24817,ABB,ABB Terra 53CJ,DC,  50 
+51,Fantastiko Sofia BG63,42.64075,23.33496,Circontrol,Circontrol Wallbox,AC,  22 
+52,Fantastiko Sofia BG64,42.64075,23.33496,Circontrol,Circontrol Wallbox,AC,  22 
+53,Mall Bulgaria BG58,42.66434,23.289,ABB,ABB DC Wallbox,DC,  24 
+54,Mall Bulgaria BG59,42.66434,23.290,Circontrol,Circontrol Wallbox,AC,  22 
+55,Mall Bulgaria BG60,42.66434,23.291,Circontrol,Circontrol Wallbox,AC,  22 
+56,Fantastiko Lyubliana  BG61,42.67087,23.2582,ABB,ABB Wallbox,DC,  24 
+57,Fantastiko Sofia BG62,42.67087,23.2583,ABB,ABB Wallbox,DC,  24 
+58,Shell Ruse BG20,43.83304,25.95825,ABB,ABB Terra 53CJ,DC,  50 
+59,Fantastiko Sky city BG65,42.67975,23.36775,Circontrol,Circontrol Wallbox,AC,  22 
+60,Fantastiko Sofia BG66,42.67975,23.36775,Circontrol,Circontrol Wallbox,AC,  22 
+61,Metro Pleven BG68,43.43778,24.59233,Circontrol,Circontrol Wallbox,AC,  22 
+62,Metro Pleven BG69,43.43778,24.59233,Circontrol,Circontrol Wallbox,AC,  22 
+63,Shell Enevo BG34,43.30025,27.22649,ABB,ABB Terra 53CJ,DC,  50 
+64,Shell Shumen BG67,43.3151,26.92302,ABB,ABB Terra 53CJ,DC,  50 
+65,Burgas Sea Garden BG19,42.49982,27.47999,Circontrol,Circontrol Urban,AC,  44 
+66,Burgas BG18,42.49932,27.47129,Circontrol,Circontrol Urban,AC,  44 
+67,Shell Sliven BG75,42.63821,26.30153,ABB,ABB Terra 53CJ,DC,  50 
+68,National Museum of History BG80,42.65701,23.27151,Circontrol,Circontrol Urban,AC,  44 
+69,Shell Studena BG74,42.539298,23.129186,ABB,ABB Terra 53CJ,DC,  50 
+70,Kiler Storage BG77,42.642618,23.395900,Circontrol,Circontrol Wallbox,AC,  22 
+71,Kiler Storage BG78,42.642619,23.395901,Circontrol,Circontrol Wallbox,AC,  22 
+72,Municipality Slivnica BG79,42.852167,23.037887,Circontrol,Circontrol Wallbox,AC,  22 
+73,Sofia Tech Park BG82,,,ABB,ABB Wallbox,AC,  22 
+74,Sofia Tech Park BG83,,,ABB,ABB Wallbox,AC,  22 
+75,Sofia Tech Park BG84,,,ABB,ABB Wallbox,AC,  22 
+76,Siven BG85,42.662471,23.319049,Circontrol,Circontrol Wallbox,AC,  22 
+77,Siven BG86,42.662472,23.319050,Circontrol,Circontrol Wallbox,AC,  22 
+78,Trade Center Europe BG87,42.672305,23.395370,Circontrol,Circontrol Wallbox,AC,  22 
+79,Trade Center Europe BG88,42.672306,23.395371,Circontrol,Circontrol Wallbox,AC,  22 
+80,Trade Center Europe BG89,42.672307,23.395372,Circontrol,Circontrol Wallbox,AC,  22 
+81,Trade Center Europe BG90,42.672308,23.395373,Circontrol,Circontrol Wallbox,AC,  22 
+82,Pro credit bank BG81,42.7003206,23.3091742,Circontrol,Circontrol Post Evolve,AC,  22 
+83,Fantastiko GM Dimitrov BG92,42.65905,23.34713,ABB,ABB DC Wallbox,DC,  24 
+84,Fantastiko GM Dimitrov BG93,42.65906,23.34714,ABB,ABB Wallbox,AC,  22 
+85,Fantastiko GM Dimitrov BG94,42.65907,23.34715,ABB,ABB Wallbox,AC,  22 
+86,Fantastiko GM Dimitrov BG95,42.65908,23.34716,ABB,ABB Wallbox,AC,  22 
+87,Carwash Vitosha Park BG102000,42.6202402,23.3702357,Circontrol,Circontrol Wallbox,AC,  22 
+88,VMV BG101,42.6620344,23.3476867,Circontrol,Circontrol Wallbox,AC,  22 
+89,Billa BG91,42.6658087 ,23.2889181,Circontrol,Circontrol Post Evolve,AC,  22 
+90,Billa BG99,42.6658088,23.2889182,Circontrol,Circontrol Post Evolve,AC,  22 
+91,Dimitrovgrad Boulevard Rakovski BG103,42.0609320,25.5898720,ABB,ABB Wallbox,AC,  22 
+92,Dimitrovgrad Boulevard Blagoev BG104,42.0565680,25.5882550,ABB,ABB Wallbox,AC,  22 
+93,Sofia Airport BG96,42.68236,23.40303,Schneider Electric,EVLink Post,AC,  44 
+94,Sofia Airport BG97,42.68237,23.40304,Schneider Electric,EVLink Post,AC,  44 
+95,Sofia Airport  BG98,42.68238,23.40305,Schneider Electric,EVLink Post,AC,  44 
+96,Muzeiko BG76,42.6599691,23.3548737,Circontrol,Circontrol Post Evolve,AC,  22 
+97,Goldline BG105,42.6592489,23.3802309,ABB,ABB Wallbox,AC,  22 
+98,Goldline BG106,42.6592490,23.3802310,ABB,ABB Wallbox,AC,  22 
+99,Sports Base Boyana BG107,42.6411030,23.2798260,Circontrol,Circontrol Urban,AC,  44 
+100,Bricolage Tsarigradsko BG108,42.6639384,23.3780480,ABB,ABB Terra 54CJ,DC,  50 
+101,Expo 2000 BG109,42.6667954,23.3265375,ABB,ABB Wallbox,AC,  22 
+102,Expo 2000 BG110,42.6667955,23.3265376,ABB,ABB Wallbox,AC,  22 
+103,Expo 2000 BG111,42.6667956,23.3265377,ABB,ABB Wallbox,AC,  22 
+104,Expo 2000 BG112,42.6667957,23.3265378,ABB,ABB Wallbox,AC,  22 
+105,Expo 2000 BG113,42.6667958,23.3265379,ABB,ABB Wallbox,AC,  22 
+106,Expo 2000 BG114,42.6667959,23.3265380,ABB,ABB DC Wallbox,DC,  22 
+107,Expo 2000 BG115,42.6667960,23.3265381,ABB,ABB DC Wallbox,DC,  22 
+108,Expo 2000 BG116,42.6667961,23.3265382,ABB,ABB DC Wallbox,DC,  22 
+109,Expo 2000 BG117,42.6667962,23.3265383,ABB,ABB DC Wallbox,DC,  22 
+110,Expo 2000 BG118,42.6667963,23.3265384,ABB,ABB DC Wallbox,DC,  24 
+111,Sheinovo BG119,42.6402671,23.3115044,ABB,ABB DC Wallbox,DC,  24 
+112,Shell Pravets BG100,42.9082752,23.8797908,ABB,ABB Terra 54CJ,DC,  50 
+113,Shell Montana BG120,43.407028,23.2393166,ABB,ABB Terra 54CJ,DC,  50 
+114,Shell Lyubimets East BG121,41.8442700,26.1195790,ABB,ABB Terra 54CJ,DC,  50 
+115,Fantastiko Dragalevtsi BG178,42.6402670,23.3115043,ABB,ABB DC Wallbox,DC,  24 
+116,Fantastiko Dragalevtsi BG123,42.6402671,23.3115044,ABB,ABB Wallbox,AC,  22 
+117,Nu Boyana Film Studio BG124,42.6414550,23.2930449,ABB,ABB Wallbox,AC,  22 
+118,Nu Boyana Film Studio BG125,42.6414550,23.2930450,ABB,ABB Wallbox,AC,  22 
+119,Churekovska,41.8521550,24.4538540,Circontrol,Circontrol Wallbox,AC,  22 
+120,Vratsa Municipality,43.2004640,23.5496530,ABB,ABB Wallbox,AC,  22 
+121,Office BG128,42.6794849,23.3992269,Circontrol,Circontrol Wallbox,AC,  22 
+122,Office BG129,42.6794850,23.3992270,Circontrol,Circontrol Wallbox,AC,  22 
+123,Office BG130,42.6794851,23.3992271,Circontrol,Circontrol Wallbox,AC,  22 
+124,Carwash Capital BG131,42.6202402,23.3702357,Circontrol,Circontrol Wallbox,AC,  22 
+125,Merkanto Sliven BG132,42.6741890,26.3340370,ABB,ABB Wallbox,AC,  22 
+126,Metro Blagoevgrad BG133,42.0121789,23.0677019,Circontrol,Circontrol Wallbox,AC,  22 
+127,Metro Blagoevgrad BG134,42.0121790,23.0677020,Circontrol,Circontrol Wallbox,AC,  22 
+128,Office BG135,42.6794850,23.3992270,Circontrol,Circontrol Raption 22kW,DC,  22 
+129,Kambanite Green Offices BG136,42.6218900,23.3785868,Circontrol,Circontrol Wallbox,AC,  22 
+130,Kambanite Green Offices BG137,42.6218900,23.3785869,Circontrol,Circontrol Wallbox,AC,  22 
+131,Kambanite Green Offices BG138,42.6218900,23.3785870,Circontrol,Circontrol Wallbox,AC,  22 
+132,IKEA Sofia BG139,42.6231063,23.3561997,Circontrol,Circontrol Wallbox,AC,  22 
+133,IKEA Sofia BG140,42.6231064,23.3561998,Circontrol,Circontrol Wallbox,AC,  22 
+134,Trade Center Europe BG141,42.672305,23.395370,Circontrol,Circontrol Wallbox,AC,  22 
+135,Trade Center Europe BG142,42.672306,23.395371,Circontrol,Circontrol Wallbox,AC,  22 
+136,Carwash Capital BG146000,42.6202402,23.3702357,Circontrol,Circontrol Wallbox,AC,  22 
+137,Carwash Srebarna BG147,42.6591939,23.3246669,Circontrol,Circontrol Wallbox,AC,  22 
+138,Carwash Srebarna BG148,42.6591940,23.3246670,Circontrol,Circontrol Wallbox,AC,  22 
+139,Hyatt Regency BG143,42.6962518,23.3360418,Circontrol,Circontrol Wallbox,AC,  22 
+140,Hyatt Regency BG144,42.6962519,23.3360419,Circontrol,Circontrol Wallbox,AC,  22 
+141,Hyatt Regency BG145,42.6962520,23.3360420,Circontrol,Circontrol Wallbox,AC,  22 
+142,Shell Trakyia South BG149,42.1978724,24.6340620,ABB,ABB Terra 54CJ,DC,  50 
+143,Office Renalfa BG150,,,ABB,ABB DC Wallbox,DC,  24 
+144,OMV Daskalovo BG151,42.608317,23.131311,ABB,ABB Terra 54CJ,DC,  50 
+145,Krammar Office Center BG152,42.7110230,23.2716540,ABB,ABB Terra 124CC,DC,  120 
+146,Serdika center - Sofia BG153,42.6913488,23.3529998,Circontrol,Circontrol Wallbox,AC,  22 
+147,Serdika center - Sofia BG154,42.6913489,23.3529999,Circontrol,Circontrol Wallbox,AC,  22 
+148,Serdika center - Sofia BG155,42.6913490,23.3530000,Circontrol,Circontrol Wallbox,AC,  22 
+149,OMV Goliamokonarsko BG156,42.1916633,24.6727085,ABB,ABB Terra 54CJ,DC,  50 
+150,Fantastiko Bankya BG157,42.7164980,23.1706590,Circontrol,Circontrol Wallbox,DC,  24 
+151,Fantastiko Bankya BG158,42.7164981,23.1706591,ABB,ABB DC Wallbox,AC,  22 
+152,Plovdiv Plaza Mall BG159,42.1453237,24.7813887,Circontrol,Circontrol Wallbox,AC,  22 
+153,Plovdiv Plaza Mall BG160,42.1453238,24.7813888,Circontrol,Circontrol Wallbox,AC,  22 
+154,Plovdiv Plaza Mall BG161,42.1453239,24.7813889,Circontrol,Circontrol Wallbox,AC,  22 
+155,Plovdiv Plaza Mall BG162,42.1453240,24.7813890,Circontrol,Circontrol Wallbox,AC,  22 
+156,Fantastiko Druzhba BG163,42.6500980,23.4074750,Circontrol,Circontrol Wallbox,AC,  22 
+157,Vassilevi Plaza BG164,42.7072805,23.3351545,ABB,ABB Terra 24CG,DC,  22 
+158,Vassilevi Plaza BG165,42.7072806,23.3351546,ABB,ABB Terra 54CJ,DC,  50 
+159,Vassilevi Plaza BG166,42.7072807,23.3351547,ABB,ABB Terra 54CJ,DC,  50 
+160,Vassilevi Plaza BG167,42.7072808,23.3351548,ABB,ABB Terra 54CJ,DC,  50 
+161,Vassilevi Plaza BG168000,42.7072809,23.3351549,ABB,ABB Terra 54CJ,DC,  50 
+162,Vassilevi Plaza BG169,42.7072810,23.3351550,ABB,ABB Terra 54CJ,DC,  50 
+163,Carwash Capital BG170000,42.6202402,23.3702356,Circontrol,Circontrol Wallbox,AC,  22 
+164,Carwash Capital BG171000,42.6202402,23.3702357,Circontrol,Circontrol Wallbox,AC,  22 
+165,Auto SPA BG172,,,Circontrol,Circontrol Wallbox,AC,  22 
+166,Auto SPA BG173,,,ABB,ABB DC Wallbox,DC,  24 
+167,UMG вЂ“ University of Mining and Geology BG174,42.6593291,23.3531231,Circontrol,Circontrol Wallbox,AC,  22 
+168,UMG вЂ“ University of Mining and Geology BG175,42.6593292,23.3531232,Circontrol,Circontrol Wallbox,AC,  22 
+169,UMG вЂ“ University of Mining and Geology BG176,42.6593293,23.3531233,Circontrol,Circontrol Wallbox,AC,  22 
+170,Shell Lulin BG177,42.7191660,23.2536690,ABB,ABB DC Wallbox,DC,  24 
+171,Sheinovo BG122,42.6402671,23.3115044,ABB,ABB DC Wallbox,DC,  24 
+172,Parking Gurko Burgas BG179,42.5009940,27.4757320,ABB,ABB DC Wallbox,DC,  24 
+173,Lufthansa BG180,42.6876752,23.4130741,Circontrol,Circontrol Wallbox,AC,  22 
+174,Lufthansa BG181,42.6876753,23.4130742,Circontrol,Circontrol Wallbox,AC,  22 
+175,Lufthansa BG182,42.6876754,23.4130743,Circontrol,Circontrol Wallbox,AC,  22 
+176,Lufthansa BG183,42.6876755,23.4130744,Circontrol,Circontrol Wallbox,AC,  22 
+177,OMV Burgas Izgrev BG184,,,ABB,ABB Terra 54CJ,DC,  24 
+178,Shell Maritsa BG185,42.1537390,24.7638200,ABB,ABB Terra 54CJ,DC,  50 
+179,Bricolage Burgas BG186,42.4720471,27.4326325,ABB,ABB Terra 54CJ,DC,  50 
+180,Shell Trakyia North BG187,42.1987230,24.6375190,ABB,ABB Terra 54CJ,DC,  50 
+181,Gazprom BG188,42.6387540,23.4131950,ABB,ABB Terra 54CJ,DC,  50 
+182,Novotel,42.6587486,23.3832031,ABB,ABB DC Wallbox,DC,  24 
+183,Gazprom Burgas BG190,42.5289740,27.4550420,ABB,ABB Terra 54CJ,DC,  50 
+184,Ores Hotel BG191,41.8247639,23.4781739,Circontrol,Circontrol Wallbox,AC,  22 
+185,Ores Hotel BG192,41.8247640,23.4781740,Circontrol,Circontrol Wallbox,AC,  22 
+186,Gazprom Plovdiv - Karlovsko Shose BG199,42.2067640,24.7333240,ABB,ABB Terra 54CJ,DC,  50 
+187,Hotel IBIS BG203,42.6867599,23.3971389,ABB,ABB Wallbox,AC,  22 
+188,Hotel IBIS BG204,42.6867600,23.3971390,ABB,ABB Wallbox,AC,  22 
+189,Hotel Asteri BG197,41.8366140,23.4851400,Circontrol,Circontrol Wallbox,AC,  22 
+190,Hotel Kamena BG198,41.6604500,24.7007460,Circontrol,Circontrol Wallbox,AC,  22 
+191,Abritus BG193,43.5239140,26.5516790,Schneider Electric,Schneider EV link,AC,  22 
+192,Razgrad BG194,43.5234510,26.5236970,Schneider Electric,Schneider EV link,AC,  22 
+193,UMG вЂ“ University of Mining and Geology BG205,42.6593293,23.3531232,ABB,ABB DC Wallbox,DC,  24 
+194,UMG вЂ“ University of Mining and Geology BG206,42.6593293,23.3531233,ABB,ABB DC Wallbox,DC,  24 
+195,FPI Business Center BG208,42.659221,23.317228,ABB,ABB DC Wallbox,DC,  24 
+196,FPI Business Center BG207,42.659221,23.317229,Circontrol,Circontrol Wallbox,AC,  22 
+197,FPI Hill Tower BG209,42.6724950,23.3203730,Circontrol,Circontrol Wallbox,AC,  22 
+198,Parking Gurko Burgas BG200,42.5009940,27.4757320,ABB,ABB Wallbox,AC,  22 
+199,Cota 1110 BG210,42.2738330,23.5395280,ABB,ABB DC Wallbox,DC,  22 
+200,ABUG BG211,42.0114439,23.0951939,Circontrol,Circontrol Wallbox,AC,  22 
+201,ABUG BG212,42.0114440,23.0951940,Circontrol,Circontrol Wallbox,AC,  22 
+202,Shell Kyustendil BG218,42.2850687,22.7033941,ABB,ABB Terra 54CJ,DC,  50 
+203,Kitchen 59 BG213,42.6813640,23.2901100,ABB,ABB DC Wallbox,DC,  24 
+204,OMV Dinkata BG214,42.2783890,24.2776670,ABB,ABB Terra 54CJ,DC,  50 
+205,Gazprom Bansko BG216,41.8513501,23.480793,ABB,ABB Terra 54CJ,DC,  50 
+206,Paradise Center BG219,42.6597270,23.3155480,ABB,ABB DC Wallbox,DC,  24 
+207,Paradise Center BG220,42.6597271,23.3155481,ABB,ABB DC Wallbox,DC,  24 
+208,Paradise Center BG221,42.6597272,23.3155482,ABB,ABB DC Wallbox,DC,  24 
+209,Paradise Center BG222,42.6597273,23.3155483,ABB,ABB DC Wallbox,DC,  24 
+210,Paradise Center BG223,42.6597274,23.3155484,ABB,ABB DC Wallbox,DC,  24 
+211,OMV Vinogradets BG217,42.3196322,24.1301239,ABB,ABB Terra 124 CC,DC,  120 
+212,Dr. Shterev medical complex BG224,42.7003519,23.2876769,Circontrol,Circontrol Wallbox,AC,  22 
+213,Dr. Shterev medical complex BG225,42.7003520,23.2876770,Circontrol,Circontrol Wallbox,AC,  22 
+214,Park Lane Office Center BG226,42.6599170,23.3215553,ABB,ABB Wallbox,AC,  22 
+215,Park Lane Office Center BG227,42.6599171,23.3215554,ABB,ABB Wallbox,AC,  22 
+216,Park Lane Office Center BG228,42.6599172,23.3215555,ABB,ABB Wallbox,AC,  22 
+217,Park Lane Office Center BG229,42.6599173,23.3215556,ABB,ABB Wallbox,AC,  22 
+218,Park Lane Office Center BG230,42.6599174,23.3215557,ABB,ABB Wallbox,AC,  22 
+219,Park Lane Office Center BG231,42.6599175,23.3215558,ABB,ABB Wallbox,AC,  22 
+220,Park Lane Office Center BG232,42.6599176,23.3215559,ABB,ABB Wallbox,AC,  22 
+221,Park Lane Office Center BG233,42.6599177,23.3215560,ABB,ABB DC Wallbox,DC,  24 
+222,Bulport logistics BG201000,43.1991409,27.8971609,Circontrol,Circontrol Wallbox,AC,  22 
+223,Bulport logistics BG202000,43.1991410,27.8971610,Circontrol,Circontrol Wallbox,AC,  22 
+224,OMV Yambol BG237,42.5304490,26.3980140,ABB,ABB Terra 124CC,DC,  120 
+225,HAAS 60 BG235,42.1551109,24.7110559,ABB,ABB DC Wallbox,DC,  24 
+226,HAAS 60 BG236,42.1551110,24.7110560,ABB,ABB DC Wallbox,DC,  24 
+227,Paradise Center BG238,42.6597267,23.3155477,ABB,ABB DC Wallbox,DC,  24 
+228,Paradise Center BG239,42.6597268,23.3155478,ABB,ABB DC Wallbox,DC,  24 
+229,Paradise Center BG240,42.6597269,23.3155479,ABB,ABB DC Wallbox,DC,  24 
+230,Paradise Center BG241,42.6597270,23.3155480,ABB,ABB DC Wallbox,DC,  24 
+231,Paradise Center BG242,42.6597270,23.3155480,ABB,ABB DC Wallbox,DC,  24 
+232,Mall Plovdiv BG248,42.1418060,24.718645,ABB,ABB Terra 54CJ,DC,  50 
+233,Santa Marina BG243,42.4081010,27.6778520,ABB,ABB DC Wallbox,DC,  24 
+234,Yacht Club Marina Sozopol BG234,42.4213080,27.6921440,Circontrol,Circontrol Wallbox,AC,  22 
+235,OMV Kazanlak BG249,42.6161670,25.4204440,ABB,ABB Terra 54CJ,DC,  50 
+236,Jaguar Land Rover BG244,42.7032176,23.4500912,ABB,ABB Terra 54CJ,DC,  50 
+237,Moto-Pfohe Plovdiv Jaguar Land Rover BG245,42.1908727,24.6723910,ABB,ABB Terra 24CG,DC,  24 
+238,Moto-Pfohe Varna Jaguar Land Rover BG246,43.2419286,27.8330309,ABB,ABB Terra 24CG,DC,  24 
+239,Moto-Pfohe Rent a car Burgas BG247,42.5343686,27.4470996,ABB,ABB Wallbox,AC,  22 
+240,IEC BG250,42.6483770,23.3958470,ABB,ABB DC Wallbox,DC,  22 
+241,IEC BG251,42.6483771,23.3958471,ABB,ABB DC Wallbox,DC,  22 
+242,OMV Blagoevgrad BG252,42.0063086,23.0952036,ABB,ABB Terra 54CJ,DC,  50 
+243,OMV Aleksandar Malinov BG253,42.6513610,23.3798060,ABB,ABB Terra 54CJ,DC,  50 
+244,Burgas BRC BG254,42.5006480,27.4618190,Circontrol,Circontrol Wallbox,AC,  22 
+245,Burgas BRC BG255,42.5006481,27.4618191,Circontrol,Circontrol Wallbox,AC,  22 
+246,Burgas BRC BG256,42.5006482,27.4618192,Circontrol,Circontrol Wallbox,AC,  22 
+247,Burgas Zheni Pateva BG258,42.5006479,27.4618189,Circontrol,Circontrol Wallbox,AC,  22 
+248,Burgas Zheni Pateva BG259,42.5006480,27.4618190,Circontrol,Circontrol Wallbox,AC,  22 
+249,OMV Pleven BG261,43.4239137,24.6008041,ABB,ABB Terra 54C,DC,  50 
+250,OMV Kulata Right BG267,41.3962910,23.3546520,ABB,ABB Terra 54C,DC,  50 
+251,OMV Kulata Left BG268,41.3962910,23.3546520,ABB,ABB Terra 54C,DC,  50 
+252,IEES BAS BG265,42.6768090,23.3658459,Circontrol,Circontrol Wallbox,AC,  22 
+253,IEES BAS BG266,42.6768091,23.3658460,ABB,ABB DC Wallbox,DC,  24 
+254,Polygraphia Office Center BG262,42.6880268,23.3445928,ABB,ABB Wallbox,AC,  22 
+255,Polygraphia Office Center BG263,42.6880269,23.3445929,ABB,ABB DC Wallbox,DC,  24 
+256,Polygraphia Office Center BG264,42.6880270,23.3445930,ABB,ABB DC Wallbox,DC,  24 
+257,Boycho Branzov,42.5155816,27.4670852,ABB,ABB Terra 54C,DC,  50 
+258,Hotel Serdika BG269,44.1072220,27.2392500,ABB,ABB Terra 53CJ,DC,  50 
+259,The Mall Sofia - 1 BG272,42.6606300,23.3818840,ABB,ABB DC Wallbox,DC,  24 
+260,The Mall Sofia - 1 BG273,42.6606300,23.3818840,ABB,ABB DC Wallbox,DC,  24 
+261,The Mall Sofia - 2 BG274,42.6606301,23.3818840,ABB,ABB DC Wallbox,DC,  24 
+262,The Mall Sofia - 2 BG275,42.6606302,23.3818841,ABB,ABB DC Wallbox,DC,  24 
+263,The Mall Sofia - 2 BG276,42.6606303,23.3818842,Circontrol,Circontrol Wallbox,AC,  22 
+264,The Mall Sofia - 2 BG277,42.6606304,23.3818843,Circontrol,Circontrol Wallbox,AC,  22 
+265,OMV Botevgradsko-North BG278,42.7095280,23.4277500,ABB,ABB Terra 124 CC,DC,  120 
+266,VIA Park BG279,42.1250368,24.7215438,ABB,ABB Terra 54CJ,DC,  50 
+267,VIA Park BG280,42.1250369,24.7215439,ABB,ABB Terra 54CJ,DC,  50 
+268,VIA Park BG281,42.1250370,24.7215440,ABB,ABB Terra 24CG,DC,  24 
+269,OMV Lulin BG282,42.7110230,23.2716540,ABB,ABB Terra 53CGJ,DC,  50 
+270,Youth Center Burgas BG285,42.4960557,27.4657217,ABB,ABB DC Wallbox,DC,  24 
+271,Youth Center Burgas BG286,42.4960558,27.4657218,ABB,ABB DC Wallbox,DC,  24 
+272,Youth Center Burgas BG287,42.4960559,27.4657219,ABB,ABB DC Wallbox,DC,  24 
+273,Youth Center Burgas BG288,42.4960560,27.4657220,ABB,ABB DC Wallbox,DC,  24 
+274,Megapark BG283,42.6616069,23.3800239,Circontrol,Circontrol Wallbox,AC,  22 
+275,Megapark BG284,42.6616070,23.3800240,Circontrol,Circontrol Wallbox,AC,  22 
+276,Retail Park Pirdop BG289,42.7040100,24.1634420,ABB,ABB Terra 54CJ,DC,  50 
+277,Sea Garden - Pomoriyska BG42,42.5070750,27.4819100,Circontrol,Circontrol Wallbox,AC,  22 
+278,Sea Garden - Pomoriyska BG43,42.5070751,27.4819101,Circontrol,Circontrol Wallbox,AC,  22 
+279,Sea Garden - Pomoriyska BG44,42.5070752,27.4819102,Circontrol,Circontrol Wallbox,AC,  22 
+280,Lazur BG45,42.5033609,27.4789169,Circontrol,Circontrol Wallbox,AC,  22 
+281,Lazur BG46,42.5033610,27.4789170,ABB,ABB DC Wallbox,DC,  24 
+282,Rodopi BG291,42.5047219,27.4674719,Circontrol,Circontrol Wallbox,AC,  22 
+283,Rodopi BG292,42.5047220,27.4674720,ABB,ABB DC Wallbox,DC,  24 
+284,Megalan Studentski grad BG296,42.6541220,23.3463420,ABB,ABB Wallbox,AC,  22 
+285,Bulport logistics BG293,43.1991410,27.8971610,ABB,ABB Terra 54C,DC,  50 
+286,OMV Belozem BG297,42.2188900,25.0418440,ABB,ABB Terra 124 CC,DC,  120 
+287,Carwash Slavyanska BG299,42.7013320,27.2468940,Wallbox,Wallbox Commander 2,AC,  22 
+288,Business Center GORA BG294,42.6559661,23.3232692,ABB,ABB DC Wallbox,DC,  24 
+289,Business Center GORA BG295,42.6559662,23.3232693,ABB,ABB DC Wallbox,DC,  24 
+290,OMV Korabcheto BG300,42.6415280,23.4044720,ABB,ABB DC Wallbox,DC,  24 
+291,OMV Tsarigradsko North BG301,42.6567780,23.3860830,ABB,ABB Terra 54CJ,DC,  50 
+292,OMV Malinova Dolina BG302,42.6288610,23.3448330,ABB,ABB Terra 54CJ,DC,  50 
+293,Espace Auto BG290,42.6450026,23.3981377,ABB,ABB Terra 54CJ,DC,  50 
+294,OMV Haskovo BG303,41.9520580,25.5575840,ABB,ABB Terra 54C,DC,  50 
+295,Pana Green Park BG318,42.4944480,24.1870810,ABB,ABB Terra 54C,DC,  50 
+296,Port Sarafovo BG308,42.5542980,27.5148380,ABB,ABB Terra 54C,DC,  50 
+297,Retail Park Pirdop BG298,42.7040100,24.1634420,ABB,ABB Terra 54C,DC,  50 
+298,Plovdiv Plaza Mall BG304,42.1453240,24.7813890,ABB,ABB DC Wallbox,DC,  24 
+299,Plovdiv Plaza Mall BG305,42.1453241,24.7813891,ABB,ABB DC Wallbox,DC,  24 
+300,Plovdiv Plaza Mall BG306,42.1453242,24.7813892,ABB,ABB DC Wallbox,DC,  24 
+301,OMV Vidin BG307,43.9921600,22.8660620,ABB,ABB Terra 54C,DC,  50 
+302,The Mall BG309,42.6606301,23.3818841,ABB,ABB Terra 184 CC,DC,  180 
+303,Office 1 Logistics BG310,42.6469790,23.5226880,Vestel,Vestel EVC04 22 kW,AC,  22 
+304,TEMPEX Plovdiv BG312,42.1013850,24.7604810,Legrand,Legrand ESVE 22kW 1.6-J,AC,  22 
+305,Hotel Rila BG313,42.2653670,23.6075750,ABB,ABB DC Wallbox,DC,  24 
+306,OMV Druzhba BG314,42.6617710,23.3919650,ABB,ABB Terra 54C,DC,  50 
+307,Shell Poduene BG315,42.6965621,23.3556841,ABB,ABB Terra 54C,DC,  50 
+308,Hotel SPS Plovdiv BG316,42.1446981,24.7854661,ABB,ABB DC Wallbox,DC,  24 
+309,Hotel SPS Plovdiv BG317,42.1446981,24.7854661,ABB,ABB DC Wallbox,DC,  24 
+310,Mall Gabrovo BG319,42.8674168,25.3170270,ABB,ABB Wallbox,AC,  22 
+311,The Mall BG320,42.6606597,23.3818837,ABB,ABB Terra 124 CC,DC,  120 
+312,The Mall BG321,42.6606598,23.3818838,ABB,ABB Terra 124 CC,DC,  120 
+313,The Mall BG322,42.6606599,23.3818839,ABB,ABB Terra 124 CC,DC,  120 
+314,The Mall BG323,42.6606600,23.3818840,ABB,ABB Terra 124 CC,DC,  120 
+315,Shell Studena BG74,42.539298,23.129186,ABB,ABB Terra 124 CC,DC,  120 
+316,Trade Center Europe BG324,42.672304,23.395369,Circontrol,Circontrol Wallbox,AC,  22 
+317,Trade Center Europe BG325,42.672305,23.395370,Circontrol,Circontrol Wallbox,AC,  22 
+318,Moto-Pfohe Aleksandar Malinov BG326,42.6517460,23.3796220,ABB,ABB Wallbox,AC,  22 
+319,Retail Park Pernik BG327,42.6074590,23.0561290,Circontrol,Circontrol Wallbox,AC,  22 
+320,Retail Park Pernik BG328,42.6074591,23.0561291,Circontrol,Circontrol Wallbox,AC,  22 
+321,Praktis Plovdiv BG329,42.1559272,24.7087360,ABB,ABB Terra 54C,DC,  50 
+322,Via Park - North BG340,42.1739214,24.7415176,ABB,ABB Terra 124 CC,DC,  120 
+323,Via Park - North BG341,42.1739218,24.7418176,ABB,ABB Terra 124 CC,DC,  120 
+324,Via Park - North BG342,42.1739218,24.7419176,ABB,ABB Terra 124 CC,DC,  120 
+325,Via Park - North BG343,42.1739218,24.7416176,ABB,ABB Terra 124 CC,DC,  120 
+326,Via Park - North BG344,42.1739218,24.7415180,ABB,ABB Terra 124 CC,DC,  120 
+327,Mall Markovo Tepe BG334,42.1413028,24.7409998,ABB,ABB DC Wallbox,DC,  24 
+328,Mall Markovo Tepe BG335,42.1413029,24.7409999,ABB,ABB DC Wallbox,DC,  24 
+329,Mall Markovo Tepe BG336,42.1413030,24.7410000,ABB,ABB DC Wallbox,DC,  24 
+330,OMV Vratsa BG337,43.1950140,23.5662460,ABB,ABB Terra 54C,DC,  50 
+331,Billa BG38,42.6658087,23.2889181,Circontrol,Circontrol Wallbox,AC,  44 
+332,San Stefano Plaza BG338,42.6922980,23.3377340,ABB,ABB DC Wallbox,DC,  24 
+333,San Stefano Plaza BG339,42.6922981,23.3377341,Schneider Electric,EVLink Post,AC,  44 
+334,Retail Park Smolyan BG345,41.5722570,24.7156130,ABB,ABB Terra 124 CC,DC,  120 
+335,Burgas Plaza BG347,,,ABB,ABB Terra 124 CC,DC,  120 
+336,Schneider Electric Plovdiv BG348,42.1940570,24.6541470,Schneider Electric,EVLink Post,AC,  22 
+337,Schneider Electric Plovdiv BG349,42.1940571,24.6541471,Schneider Electric,EVLink Post,AC,  22 
+338,Schneider Electric Plovdiv BG350,42.1940572,24.6541472,Schneider Electric,EVLink Post,AC,  22 
+339,Schneider Electric Plovdiv BG351,42.1940573,24.6541473,Schneider Electric,EVLink Post,AC,  22 
+340,Schneider Electric Plovdiv BG352,42.1940574,24.6541474,Schneider Electric,EVLink Post,AC,  22 
+341,OMV Pazardzhik BG346,42.1861777,24.3509694,ABB,ABB Terra 54C,DC,  50 
+342,Enikom M BG359,42.7231710,23.2493759,ABB,ABB Terra 54C,DC,  50 
+343,Vassilevi Plaza BG168,42.68236,23.40303,ABB,ABB Terra 54C,DC,  50 
+344,IKEA BG360,42.70973,23.39431,Circontrol,Circontrol Wallbox,AC,  22 
+345,IKEA BG361,42.70974,23.39432,Circontrol,Circontrol Wallbox,AC,  22 
+346,IKEA BG362,42.70975,23.39433,Circontrol,Circontrol Wallbox,AC,  22 
+347,IKEA BG363,42.70976,23.39434,Circontrol,Circontrol Wallbox,AC,  22 
+348,IKEA BG364,42.70977,23.39435,Circontrol,Circontrol Wallbox,AC,  22 
+349,IKEA BG365,42.70978,23.39436,Circontrol,Circontrol Wallbox,AC,  22 
+350,Megalan Studentski grad BG366,42.6541220,23.3463420,ABB,ABB Wallbox,AC,  22 
+351,Megalan Studentski grad BG367,42.6541221,23.3463421,ABB,ABB Wallbox,AC,  22 
+352,Ulen Bansko BG40,,,Circontrol,Circontrol Urban,DC,  44 
+353,OMV Drazhevo BG353,42.5454004,26.4468745,ABB,ABB Terra 184 CC,DC,  180 
+354,Damyanitza Hub BG330,,,ABB,ABB Terra 124 CC,DC,  120 
+355,Damyanitza Hub BG331,,,ABB,ABB Terra 124 CC,DC,  120 
+356,Damyanitza Hub BG332,,,ABB,ABB Terra 124 CC,DC,  120 
+357,Damyanitza Hub BG333,,,ABB,ABB Terra 124 CC,DC,  120 
+358,Landmark Creek Hotel & SPA BG22,,,Circontrol,Circontrol Wallbox,AC,  22 
+359,Best Western Premier Plovdiv Hills BG41,,,Circontrol,Circontrol Wallbox,AC,  22 
+360,Maleeva - Sofia BG146,41.82857,23.47686,Circontrol,Circontrol Wallbox,AC,  22 
+361,Karlovo Way Park BG368,42.6431240,24.7882750,ABB,ABB Terra 54C,DC,  50 
+362,Karlovo Way Park BG369,42.6431240,24.7882750,Circontrol,Circontrol Wallbox,AC,  22 
+363,Karlovo Way Park BG370,41.52533,23.27363,Circontrol,Circontrol Wallbox,AC,  22 
+364,Karlovo Way Park BG371,41.52534,23.27364,ABB,ABB DC Wallbox,DC,  24 
+365,Raya Garden BG372,43.0709512,25.6490088,Circontrol,Circontrol Wallbox,AC,  22 
+366,Raya Garden BG373,43.0709513,25.6490089,Circontrol,Circontrol Wallbox,AC,  22 
+367,Raya Garden BG374,43.0709512,25.6490088,Circontrol,Circontrol Wallbox,AC,  22 
+368,Raya Garden BG375,43.0709512,25.6490088,ABB,ABB Terra 54C,DC,  50 
+369,Margel Vitosha Okolovrasten Pat BG47,42.6370337,23.3245598,Circontrol,Circontrol Wallbox,AC,  22 
+370,Omnikar Auto Suhodol BG376,42.6946890,23.2309410,ABB,ABB Terra 54C,DC,  50 
+371,Jysk Bozhurishte BG377,42.7339440,23.1935000,ABB,ABB Wallbox,AC,  22 
+372,Jysk Bozhurishte BG378,42.7339440,23.1935001,ABB,ABB Wallbox,AC,  22 
+373,Jysk Bozhurishte BG379,42.7339440,23.1935000,ABB,ABB Terra 124 CC,DC,  120 
+374,Jaguar Land Rover BG380,42.7032176,23.4500912,ABB,ABB Wallbox,AC,  22 
+375,Jaguar Land Rover BG381,42.7032177,23.4500913,ABB,ABB Wallbox,AC,  22 
+376,Jaguar Land Rover BG387,42.7032178,23.4500914,ABB,ABB Terra 124 CC,DC,  120 
+377,Volvo BG382,42.7032176,23.4500912,ABB,ABB Wallbox,AC,  22 
+378,Volvo BG383,42.7032177,23.4500913,ABB,ABB Wallbox,AC,  22 
+379,Volvo BG384,42.7032178,23.4500914,ABB,ABB Wallbox,AC,  22 
+380,Volvo BG385,42.7032176,23.4500912,ABB,ABB Terra 184 CC,DC,  180 
+381,Volvo BG386,42.7032177,23.4500913,ABB,ABB Wallbox,AC,  22 
+382,Interpred Gotse Delchev BG388,41.5804440,23.7441670,ABB,ABB Terra 184 CC,DC,  180 
+383,Rayski Kat Marianna BG57,42.2719170,23.2053060,Circontrol,Circontrol Wallbox,AC,  22 
+384,Bulvaria BG170,43.2356179,27.8699759,Circontrol,Circontrol Wallbox,AC,  22 
+385,Bulvaria BG171,43.2356180,27.8699760,ABB,ABB Terra 54C,DC,  50 
+386,Tsalapitsa BG391,42.1963420,24.5713840,ABB,ABB Terra 54C,DC,  50 
+387,Torgoterm BG394,42.2894776,22.7032906,ABB,ABB Terra 124 CC,DC,  120 
+388,Hotel Casablanca BG270,42.8261430,27.8788390,Circontrol,Circontrol Wallbox,AC,  22 
+389,Hotel Casablanca BG271,42.8261430,27.8788390,Circontrol,Circontrol Wallbox,AC,  22 
+390,Work Nomads BG392,42.6535132,23.3465236,ABB,ABB DC Wallbox,DC,  24 
+391,Work Nomads BG393,42.6535132,23.3465236,ABB,ABB DC Wallbox,DC,  24 
+392,International Hotel Casino & Tower Suites BG389,43.2829980,28.0424050,ABB,ABB DC Wallbox,DC,  24 
+393,Sunrise Resort BG102,42.8261430,27.8788390,Circontrol,Circontrol Urban,AC,  44 
+394,Kuzi Carwash BG390,42.7164720,27.2535000,ABB,ABB Wallbox,AC,  22 
+395,OMV Dupnica BG396,42.2846305,23.1230081,ABB,ABB Terra 54C,DC,  50 
+396,Toyota Blagoevgrad BG397,41.9475483,23.0965923,ABB,ABB Terra 124 CC,DC,  120 
+397,Office 1 Tsarigradsko BG311,42.6515220,23.3923120,ABB,ABB Wallbox,AC,  22 
+398,Therma Village BG395,43.3448340,28.0678420,ABB,ABB Wallbox,AC,  22 
+399,Secrets Sunny Beach Resort & Spa BG398,42.7098740,27.7340770,ABB,ABB Terra 54C,DC,  50 
+400,Hyatt Regency Pravets BG399,42.9094424,23.8935843,Circontrol,Circontrol Wallbox,AC,  22 
+401,Hyatt Regency Pravets BG400,42.9094424,23.8935843,ABB,ABB Terra 124 CC,DC,  120 
+402,Primex - AVG BG401,42.1096350,24.7611930,ABB,ABB Wallbox,AC,  22 
+403,Primex - AVG BG402,42.1096351,24.7611931,ABB,ABB Wallbox,AC,  22 
+404,Primex - AVG BG403,42.1096352,24.7611932,ABB,ABB Wallbox,AC,  22 
+405,Aiko BG404,42.7398623,23.2375229,Circontrol,Circontrol Wallbox,AC,  22 
+406,Aiko BG405,42.7398624,23.2375230,Circontrol,Circontrol Wallbox,AC,  22 
+407,Aiko BG406,42.7398623,23.2375229,ABB,ABB Terra 54C,DC,  50 
+408,Hotel Avenue BG11,,,Circontrol,Circontrol Wallbox,AC,  22 
+409,Smart Business Center BG131,,,Circontrol,Circontrol Wallbox,AC,  22 
+410,Tennis Center Avenue BG407,,,Circontrol,Circontrol Wallbox,AC,  22 
+411,Moto-Pfohe Rent a car Burgas BG412,42.5343686,27.4470996,ABB,ABB Terra 124 CC,DC,  120 
+412,Geotrading BG408,,,ABB,ABB Terra 53 CJG,DC,  72 
+413,Green Life BG409,,,Circontrol,Circontrol Wallbox,AC,  22 
+414,Green Life BG410,,,Circontrol,Circontrol Wallbox,AC,  22 
+415,Green Life BG411,,,Circontrol,Circontrol Wallbox,AC,  22 
+416,Holiday Park Pernik BG413,,,Starcharge,StarCharge Athena,DC,  60 
+417,Retail Park Dupnitsa BG414,,,ABB,ABB Terra 54C,DC,  50 
+418,Green Life Ski & Spa Resort BG417,,,Circontrol,Circontrol Wallbox,AC,  22 
+419,Green Life Ski & Spa Resort BG418,,,Circontrol,Circontrol Wallbox,AC,  22 
+420,Moto-Pfohe Plovdiv Jaguar Land Rover BG419,,,ABB,ABB Wallbox,AC,  22 
+421,Moto-Pfohe Plovdiv Jaguar Land Rover BG420,,,ABB,ABB Wallbox,AC,  22 
+422,Hotel Balkan Gabrovo BG422,,,Schneider Electric,EVLink Post,AC,  22 
+423,Praktis Veliko Tarnovo BG421,,,ABB,ABB Terra 54C,DC,  50 
+424,Hushove Radomir BG415,,,Circontrol,Circontrol Wallbox,AC,  22 
+425,7 Lakes Camping Sapareva Banya BG416,,,Circontrol,Circontrol Wallbox,AC,  22 
+426,Porsche Center BG423,,,Delta,Delta,DC,  24 
+427,Porsche Center BG424,,,Delta,Delta,DC,  24 
+428,Porsche Center BG425,,,Delta,Delta,DC,  24 
+429,Porsche Center BG426,,,Delta,Delta,DC,  24 
+430,Bulport Logistics BG201,,,Hypercharger,Hypercharger 150,DC,  150 
+431,University of Transport BG427,,,ABB,ABB DC Wallbox,DC,  24 
+432,University of Transport BG428,,,Circontrol,Circontrol Wallbox,AC,  22 
+433,University of Transport BG429,,,Circontrol,Circontrol Wallbox,AC,  22 
+434,University of Transport BG430,,,Circontrol,Circontrol Wallbox,AC,  22 
+435,University of Transport BG431,,,Circontrol,Circontrol Wallbox,AC,  22 
+436,Koriata Restaurant BG202,,,ABB,ABB Terra 54C,DC,  50 
+437,Hotel Druzhba BG432,,,ABB,ABB Terra 54C,DC,  50 
+438,Holiday Park Haskovo BG433,,,ABB,ABB Terra 124CC,DC,  120 
+439,Parking Gurko Burgas BG434,,,ABB,ABB Wallbox,AC,  22 
+440,Lufthansa BG436,,,Circontrol,Circontrol Wallbox,AC,  22 
+441,Lufthansa BG437,,,Circontrol,Circontrol Wallbox,AC,  22 
+442,Lufthansa BG438,,,Circontrol,Circontrol Wallbox,AC,  22 
+443,Lufthansa BG439,,,Circontrol,Circontrol Wallbox,AC,  22 
